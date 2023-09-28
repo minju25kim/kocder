@@ -12,4 +12,6 @@ Use your own front-end to display content
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
 
+![image](https://github.com/minju25kim/kocder/assets/48757517/f7f4c9d6-c5ed-427c-be7f-125f70ed6f91)
+
 ![matrix](https://github.com/minju25kim/kocder/assets/48757517/2a80ec42-5b98-456c-b945-317146507e26)
